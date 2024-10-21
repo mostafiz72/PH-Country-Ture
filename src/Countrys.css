@@ -1,0 +1,14 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.contris img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.contris{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
